@@ -7,7 +7,7 @@ It takes an input on an imitation graph and produces either a schedule of commit
 
 This is my first proper project and it fills that need to draw something in your contribution graph. The first time I laid eyes on that thing, I was thinking about how can I abuse this tiny graph of cubes.
 
-It started as a silly statement to myself that became an idea aired out on a good friend. It was something along the lines of "imagine drawing something in that over some period, that would be amazing!!". With a little bit of creative thinking and taking advantage of how Git allows commits in the past, I have piped together something. Take a look at [my working profile](https://github.com/Jordy1311?tab=overview&from=2020-12-01&to=2020-12-31) for a real-life example of the output of commitCanvas.  
+It started as a silly statement to myself that became an idea aired out on a good friend. It was something along the lines of "imagine drawing something in that over some period, that would be amazing!!". With a little bit of creative thinking and taking advantage of how Git allows commits in the past, I have piped together something. Take a look at [my working profile](https://github.com/jcoopnz?tab=overview&from=2020-12-01&to=2020-12-31) for a real-life example of the output of commitCanvas.  
 
 > Where the spirit does not work with the hand, there is no art.
 

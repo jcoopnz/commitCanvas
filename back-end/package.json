@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jordy1311/commitCanvas.git"
+    "url": "git+https://github.com/jcoopnz/commitCanvas.git"
   },
   "author": "Jordan Cooper",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jordy1311/commitCanvas/issues"
+    "url": "https://github.com/jcoopnz/commitCanvas/issues"
   },
-  "homepage": "https://github.com/Jordy1311/commitCanvas#readme",
+  "homepage": "https://github.com/jcoopnz/commitCanvas#readme",
   "devDependencies": {
     "nodemon": "^2.0.7",
     "prettier": "^2.3.1"
